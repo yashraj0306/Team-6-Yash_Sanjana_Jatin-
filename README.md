@@ -18,23 +18,6 @@ A full stack web application to manage student team members built using React.js
 - Multer
 - CORS
 
-## Folder Structure
-```
-final/
-├── backend/
-│   ├── server.js
-│   ├── package.json
-│   └── uploads/
-└── frontend/
-    └── src/
-        ├── index.js
-        ├── App.js
-        ├── App.css
-        ├── Home.js
-        ├── AddMember.js
-        ├── ViewMembers.js
-        └── MemberDetails.js
-```
 
 ## Installation and Setup
 
